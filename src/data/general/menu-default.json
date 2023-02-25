@@ -1,0 +1,58 @@
+{
+  "id": "main-menu-1",
+  "section": "menu-default",
+  "menu": [
+    {
+      "id": 1,
+      "text": "Home",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "text": "About",
+      "path": "/about"
+    },
+    {
+      "id": 3,
+      "text": "Portfolio",
+      "path": "/portfolio"
+    },
+    {
+      "id": 4,
+      "text": "Marketing",
+      "path": "/marketing/content-writer",
+      "subMenu": [
+        {
+          "id": 41,
+          "text": "Content Writer",
+          "path": "/marketing/content-writer"
+        },
+        {
+          "id": 42,
+          "text": "Graphic Design",
+          "path": "/marketing/graphic-design"
+        },
+        {
+          "id": 43,
+          "text": "SEO Optimize",
+          "path": "/marketing/seo-optimize"
+        },
+        {
+          "id": 44,
+          "text": "Social Media",
+          "path": "/marketing/social-media"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "text": "Blog",
+      "path": "/blog"
+    },
+    {
+      "id": 6,
+      "text": "Contact",
+      "path": "/contact"
+    }
+  ]
+}

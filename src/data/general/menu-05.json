@@ -1,0 +1,46 @@
+{
+    "id": "main-menu-5",
+    "section": "menu-5",
+    "menu": [
+        {
+            "id": 1,
+            "text": "Home",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "About",
+            "path": "about"
+        },
+        {
+            "id": 3,
+            "text": "Service",
+            "path": "service"
+        },
+        {
+            "id": 4,
+            "text": "Portfolio",
+            "path": "portfolio"
+        },
+        {
+            "id": 6,
+            "text": "Client",
+            "path": "client"
+        },
+        {
+            "id": 7,
+            "text": "Pricing",
+            "path": "pricing"
+        },
+        {
+            "id": 8,
+            "text": "blog",
+            "path": "blog"
+        },
+        {
+            "id": 9,
+            "text": "Contact",
+            "path": "contacts"
+        }
+    ]
+}

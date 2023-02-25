@@ -1,0 +1,17 @@
+{
+    "id": "header-data-7",
+    "section": "header-7",
+    "button": {
+        "id": 1,
+        "content": "hello@name.com ",
+        "path": "hello@name.com"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo-dark.png"
+        }
+    ]
+}

@@ -1,0 +1,386 @@
+{
+    "title": "home",
+    "content": [
+        {
+            "id": "home-hero",
+            "section": "hero-section",
+            "headings": [
+                {
+                    "content": "WELCOME TO MY WORLD"
+                },
+                {
+                    "content": "Hi, I’m <span>Jone Lee</span>"
+                }
+            ],
+            "animated_texts": [
+                "Developer.",
+                "Professional Coder.",
+                "Designer."
+            ],
+            "texts": [
+                {
+                    "content": "I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+                }
+            ],
+            "skills": [
+                {
+                    "id": 1,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-01.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 2,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-02.png",
+                        "alt": "Skill Icon"
+                    }
+                },
+                {
+                    "id": 3,
+                    "title": "developer",
+                    "image": {
+                        "src": "../images/icons/icons-03.png",
+                        "alt": "Skill Icon"
+                    }
+                }
+            ],
+            "images": [
+                {
+                    "src": "../images/slider/banner-01.png",
+                    "alt": "Personal Portfolio Images"
+                }
+            ]
+        },
+        {
+            "id": "home-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "Features"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Business Stratagy",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Menu",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "App Development",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "App Development",
+                    "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+                    "icon": "Tv",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile App",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority.",
+                    "icon": "Twitch",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "CEO Marketing",
+                    "description": "always free from repetition, injected humour, or non-characteristic words etc.",
+                    "icon": "Wifi",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "Personal Portfolio April",
+                    "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+                    "icon": "Slack",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "home-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Latest Design",
+                "subtitle": "Graphic Designers, Web Designers, & Webflow Expert"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provide for design",
+                    "category": "Development",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-01.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 2,
+                    "title": "Mobile app landing design & app maintain",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-02.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 3,
+                    "title": "Logo design creativity & Application",
+                    "category": "Photoshop",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-03.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Mobile app landing design & Services",
+                    "category": "Figma",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-04.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Design for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-05.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 280
+                },
+                {
+                    "id": 6,
+                    "title": "App for tecnology & services",
+                    "category": "Web Design",
+                    "texts": [
+                        {
+                            "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+                        },
+                        {
+                            "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-06.jpg"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "content": "Let's start a project together",
+                    "path": "#contact",
+                    "className": "rounded-pill"
+                }
+            ]
+        },
+        {
+            "id": "home-portfolio-2",
+            "section": "portfolio-section-2",
+            "section_title": {
+                "title": "My Best Work",
+                "subtitle": "Look My project & JUDGE"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "The services provice for Design",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "stringList": [
+                        "Responsive design",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-07.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "The services provice for Development",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Device maintain",
+                        "Theme builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-08.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "The services provice for Android user",
+                    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+                    "items": [
+                        "Customer satisfaction",
+                        "Quiz builder",
+                        "Certification",
+                        "Stats & reports",
+                        "Retina ready"
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/portfolio-09.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "home-two-awards",
+            "section": "awards-section",
+            "section_title": {
+                "title": "⭐ My award & achievement ⭐"
+            },
+            "images": [
+                {
+                    "src": "../images/others/awards.png",
+                    "alt": "awards"
+                }
+            ]
+        },
+        {
+            "id": "home-testimonial",
+            "section": "testimonial-section",
+            "section_title": {
+                "title": "Testimonial",
+                "subtitle": "What Clients Say"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Nevine Acotanza",
+                    "subtitle": "Rainbow-Themes",
+                    "designation": "Chief Operating Officer",
+                    "projectTitle": "Android App Development",
+                    "projectMeta": "via Upwork - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--1st.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Jone Duone Joe",
+                    "subtitle": "Bound - Trolola",
+                    "designation": "Operating Officer",
+                    "projectTitle": "Web App Development",
+                    "projectMeta": "Upwork - Mar 4, 2016 - Aug 30, 2021",
+                    "rating": "4",
+                    "description": "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--2nd.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "Nevine Dhawan",
+                    "subtitle": "Glassfisom",
+                    "designation": "CEO Of Officer",
+                    "projectTitle": "Android App Design",
+                    "projectMeta": "Fiver - Mar 4, 2015 - Aug 30, 2021",
+                    "rating": "5",
+                    "description": "No more question for design. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris .",
+                    "images": [
+                        {
+                            "src": "../images/testimonial/final-home--3rd.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "home-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Blog",
+                "subtitle": "Visit my blog and keep your feedback"
+            }
+        }
+    ]
+}

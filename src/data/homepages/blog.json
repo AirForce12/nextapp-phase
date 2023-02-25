@@ -1,0 +1,13 @@
+{
+  "title": "blog",
+  "content": [
+    {
+      "id": "blog-section",
+      "section": "blog-section",
+      "section_title": {
+        "title": "My Blog",
+        "subtitle": "Visit my blog and keep your feedback"
+      }
+    }
+  ]
+}

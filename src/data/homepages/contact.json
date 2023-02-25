@@ -1,0 +1,31 @@
+{
+  "title": "contact",
+  "content": [
+    {
+      "id": "contact",
+      "section": "contact-section",
+      "section_title": {
+        "title": "Contact With Me",
+        "subtitle": "Contact"
+      },
+      "images": [
+        {
+          "src": "../images/contact/contact1.png"
+        }
+      ],
+      "headings": [
+        {
+          "content": "Nevine Acotanza"
+        },
+        {
+          "content": "Chief Operating Officer"
+        }
+      ],
+      "texts": [
+        {
+          "content": "I am available for freelance work. Connect with me via and call in to my account."
+        }
+      ]
+    }
+  ]
+}

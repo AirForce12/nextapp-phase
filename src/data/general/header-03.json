@@ -1,0 +1,19 @@
+{
+    "id": "header-data-3",
+    "section": "header-3",
+    "button": {
+        "id": 1,
+        "content": "BUY NOW",
+        "path": "https://themeforest.net/checkout/from_item/34615039?license=regular",
+        "className": "no-shadow btn-theme"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logos-circle.png"
+        }
+    ],
+    "slogan": "Inbio is a personal portfolio template. You can customize all."
+}

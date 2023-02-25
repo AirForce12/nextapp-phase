@@ -1,0 +1,601 @@
+{
+  "title": "about",
+  "content": [
+    {
+      "id": "about-about",
+      "section": "about-section",
+      "section_title": {
+        "title": "About Me",
+        "subtitle": "Visit my portfolio & Hire me"
+      },
+      "texts": [
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit, et necessitatibus adipisci labore sit veritatis vero tempore sequi at sed facere dolore. Quae obcaecati ius quasi doloribus illum minus fugit."
+        },
+        {
+          "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum in eos saepe ipsa cupiditate accusantium voluptatibus quidem nam, reprehenderit,"
+        }
+      ],
+      "buttons": [
+        {
+          "id": 1,
+          "path": "#contacts",
+          "content": "DOWNLOAD MY CV"
+        }
+      ],
+      "images": [
+        {
+          "src": "../images/about/about-4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "about-services",
+      "section": "service-section",
+      "title": "My Services",
+      "items": [
+        {
+          "id": 1,
+          "title": "Business Stratagy",
+          "path": "#!"
+        },
+        {
+          "id": 2,
+          "title": "Business Development",
+          "path": "#!"
+        },
+        {
+          "id": 3,
+          "title": "App Development",
+          "path": "#!"
+        },
+        {
+          "id": 4,
+          "title": "Mobile App Development",
+          "path": "#!"
+        }
+      ]
+    },
+    {
+      "id": "about-services-2",
+      "section": "service-section-2",
+      "title": "My Services",
+      "items": [
+        {
+          "id": 1,
+          "title": "Business Stratagy",
+          "path": "#!"
+        },
+        {
+          "id": 2,
+          "title": "Business Development",
+          "path": "#!"
+        },
+        {
+          "id": 3,
+          "title": "App Development",
+          "path": "#!"
+        },
+        {
+          "id": 4,
+          "title": "Mobile App Development",
+          "path": "#!"
+        }
+      ]
+    },
+    {
+      "id": "about-skill",
+      "section": "skill-section",
+      "title": "About My Skill",
+      "inner": [
+        {
+          "id": "freelencer-home-skill-top",
+          "title": "Primary Skills on",
+          "items": [
+            {
+              "id": 1,
+              "images": [
+                {
+                  "src": "../images/icons/icons-01.png"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "images": [
+                {
+                  "src": "../images/icons/icons-02.png"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "images": [
+                {
+                  "src": "../images/icons/icons-03.png"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "images": [
+                {
+                  "src": "../images/icons/icons-04.png"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "images": [
+                {
+                  "src": "../images/icons/icons-05.png"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "images": [
+                {
+                  "src": "../images/icons/icons-06.png"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "images": [
+                {
+                  "src": "../images/icons/icons-07.png"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "images": [
+                {
+                  "src": "../images/icons/icons-08.png"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "images": [
+                {
+                  "src": "../images/icons/icons-09.png"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "images": [
+                {
+                  "src": "../images/icons/icons-10.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "freelencer-home-skill-right",
+          "title": "Secondary Skills on",
+          "items": [
+            {
+              "id": 1,
+              "images": [
+                {
+                  "src": "../images/icons/icons-11.png"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "images": [
+                {
+                  "src": "../images/icons/icons-12.png"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "images": [
+                {
+                  "src": "../images/icons/icons-13.png"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "images": [
+                {
+                  "src": "../images/icons/icons-14.png"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "images": [
+                {
+                  "src": "../images/icons/icons-15.png"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "images": [
+                {
+                  "src": "../images/icons/icons-16.png"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "images": [
+                {
+                  "src": "../images/icons/icons-17.png"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "images": [
+                {
+                  "src": "../images/icons/icons-18.png"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "images": [
+                {
+                  "src": "../images/icons/icons-19.png"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "images": [
+                {
+                  "src": "../images/icons/icons-20.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "about-skill-2",
+      "section": "skill-section-2",
+      "title": "About My Skill",
+      "inner": [
+        {
+          "id": "freelencer-home-skill-top",
+          "title": "Primary Skills on",
+          "items": [
+            {
+              "id": 1,
+              "images": [
+                {
+                  "src": "../images/icons/icons-01.png"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "images": [
+                {
+                  "src": "../images/icons/icons-02.png"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "images": [
+                {
+                  "src": "../images/icons/icons-03.png"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "images": [
+                {
+                  "src": "../images/icons/icons-04.png"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "images": [
+                {
+                  "src": "../images/icons/icons-05.png"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "images": [
+                {
+                  "src": "../images/icons/icons-06.png"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "images": [
+                {
+                  "src": "../images/icons/icons-07.png"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "images": [
+                {
+                  "src": "../images/icons/icons-08.png"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "images": [
+                {
+                  "src": "../images/icons/icons-09.png"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "images": [
+                {
+                  "src": "../images/icons/icons-10.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "freelencer-home-skill-right",
+          "title": "Secondary Skills on",
+          "items": [
+            {
+              "id": 1,
+              "images": [
+                {
+                  "src": "../images/icons/icons-11.png"
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "images": [
+                {
+                  "src": "../images/icons/icons-12.png"
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "images": [
+                {
+                  "src": "../images/icons/icons-13.png"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "images": [
+                {
+                  "src": "../images/icons/icons-14.png"
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "images": [
+                {
+                  "src": "../images/icons/icons-15.png"
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "images": [
+                {
+                  "src": "../images/icons/icons-16.png"
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "images": [
+                {
+                  "src": "../images/icons/icons-17.png"
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "images": [
+                {
+                  "src": "../images/icons/icons-18.png"
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "images": [
+                {
+                  "src": "../images/icons/icons-19.png"
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "images": [
+                {
+                  "src": "../images/icons/icons-20.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "about-portfolio",
+      "section": "portfolio-section",
+      "section_title": {
+        "title": "My Portfolio",
+        "subtitle": "Visit my portfolio and keep your feedback"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "The services provide for design",
+          "category": "Development",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-01.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 600
+        },
+        {
+          "id": 2,
+          "title": "Mobile app landing design & app maintain",
+          "category": "Application",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-02.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 750
+        },
+        {
+          "id": 3,
+          "title": "Logo design creativity & Application",
+          "category": "Photoshop",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-03.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 630
+        },
+        {
+          "id": 4,
+          "title": "Mobile app landing design & Services",
+          "category": "Figma",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-04.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 360
+        },
+        {
+          "id": 5,
+          "title": "Design for tecnology & services",
+          "category": "Web Design",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-05.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 280
+        },
+        {
+          "id": 6,
+          "title": "App for tecnology & services",
+          "category": "Web Design",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-06.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 600
+        }
+      ]
+    },
+    {
+      "id": "about-contact",
+      "section": "contact-section",
+      "section_title": {
+        "title": "Contact With Me",
+        "subtitle": "Contact"
+      },
+      "images": [
+        {
+          "src": "../images/contact/contact1.png"
+        }
+      ],
+      "headings": [
+        {
+          "content": "Nevine Acotanza"
+        },
+        {
+          "content": "Chief Operating Officer"
+        }
+      ],
+      "texts": [
+        {
+          "content": "I am available for freelance work. Connect with me via and call in to my account."
+        }
+      ]
+    }
+  ]
+}

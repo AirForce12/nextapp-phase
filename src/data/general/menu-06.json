@@ -1,0 +1,36 @@
+{
+    "id": "main-menu-6",
+    "section": "menu-6",
+    "menu": [
+        {
+            "id": 1,
+            "text": "Home",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "Services",
+            "path": "features"
+        },
+        {
+            "id": 3,
+            "text": "About",
+            "path": "about"
+        },
+        {
+            "id": 4,
+            "text": "Portfolio",
+            "path": "portfolio"
+        },
+        {
+            "id": 6,
+            "text": "Award",
+            "path": "client"
+        },
+        {
+            "id": 9,
+            "text": "Contact",
+            "path": "contacts"
+        }
+    ]
+}

@@ -1,0 +1,190 @@
+/*--------------------------
+    Navigation Styles
+----------------------------*/
+.mainmenu-nav {
+    .primary-menu {
+        display: flex;
+        list-style: none;
+        flex-wrap: wrap;
+        margin: -24px;
+        padding: 0;
+
+        @media #{$lg-layout} {
+            display: block;
+            margin-top: 95px;
+            margin-left: 30px;
+        }
+
+        @media #{$md-layout} {
+            display: block;
+            margin-top: 95px;
+            margin-left: 30px;
+        }
+
+        @media #{$sm-layout} {
+            display: block;
+            margin-top: 95px;
+            margin-left: 30px;
+        }
+
+        li {
+            margin: 10px 14px;
+            transition: 0.3s;
+            position: relative;
+            @media #{$laptop-device} {
+                margin: 10px 5px;
+            }
+
+            &:hover {
+                &>a {
+                    color: var(--color-primary);
+                }
+
+                .sub-menu {
+                    opacity: 1;
+                    visibility: visible;
+                }
+            }
+        }
+
+        a {
+            transition: 0.3s;
+            color: var(--color-lightn);
+            //position: relative;
+            transition: var(--transition);
+            font-size: 13px;
+            font-weight: var(--s-regular);
+            text-transform: uppercase;
+            font-family: var(--font-secondary);
+            display: inline-block;
+            &.active,
+            &:hover {
+                opacity: 1 !important;
+                color: var(--color-white);
+            }
+        }
+        &:hover {
+            a {
+                opacity: 0.5;
+            }
+        }
+    }
+
+
+}
+
+.white-version {
+    .sub-menu:not(.mobile) {
+        background: #ecf0f3;
+        box-shadow: var(--shadow-white-3);
+
+        li {
+            &:hover {
+                a {
+                    background-color: var(--bs-white);
+                    color: var(--color-primary) !important;
+                }
+            }
+
+            a {
+                opacity: 1 !important;
+                display: block;
+                margin: 0 10px;
+                padding: 8px 20px;
+            }
+        }
+    }
+}
+
+.sub-menu {
+    opacity: 0;
+    visibility: hidden;
+    text-align: left;
+    transition: 0.3s;
+
+    &:not(.mobile) {
+        border-radius: 4px;
+        min-width: 247px;
+        height: auto;
+        z-index: 99;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        padding: 12px 0;
+        box-shadow: var(--shadow-1);
+        background-color: var(--background-color-2);
+
+        li {
+            margin: 0;
+
+            &:hover {
+                a {
+                    color: var(--color-primary) !important;
+                    background: var(--color-dark);
+                }
+            }
+
+            a {
+                opacity: 1 !important;
+                display: block;
+                margin: 0 10px;
+                padding: 8px 20px;
+            }
+        }
+    }
+
+    &.mobile {
+        //list-style-type: box;
+        padding: 0 10px;
+        //margin-top: 10px;
+        overflow : hidden;
+
+        li {
+            padding: 5px 0;
+            margin-left: 20px;
+        }
+    }
+
+    &.mobile.active {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    li {
+        margin: 0;
+        transition: 0.3s;
+        position: relative;
+        @media #{$laptop-device} {
+            margin: 5px;
+        }
+
+        &:hover {
+            a {
+                color: var(--color-white) !important;
+                //background: var(--color-dark);
+            }
+        }
+
+        a {
+            font-weight: 500;
+            padding: 5px 20px;
+            font-size: 13px;
+            display: block;
+            color: var(--color-lightn);
+            margin: 0 10px;
+            border-radius: 3px;
+        }
+    }
+}
+
+.header--sticky {
+    &.sticky {
+        .mainmenu-nav {
+            .primary-menu {
+                a {
+                    opacity: 0.5;
+                }
+            }
+        }
+    }
+}

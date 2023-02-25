@@ -1,0 +1,19 @@
+{
+    "id": "header-data-4",
+    "section": "header-4",
+    "button": {
+        "id": 1,
+        "content": "CONTACT ME",
+        "path": "#contacts",
+        "className": "no-shadow"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logos-circle.png"
+        }
+    ],
+    "slogan": "Inbio is a personal portfolio template. You can customize all."
+}

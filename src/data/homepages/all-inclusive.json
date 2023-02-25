@@ -1,0 +1,206 @@
+{
+  "title": "all-inclusive",
+  "content": [
+    {
+      "id": "all-inclusive-hero",
+      "section": "hero-section",
+      "headings": [
+        {
+          "content": "WELCOME TO MY WORLD"
+        },
+        {
+          "content": "Hi, I’m <span>John Lee</span><br><span class='span'> Teacher.</span>"
+        }
+      ],
+      "texts": [
+        {
+          "content": "I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that."
+        }
+      ],
+      "skills": [
+        {
+          "id": 1,
+          "title": "developer",
+          "image": {
+            "src": "../images/icons/icons-01.png",
+            "alt": "Skill Icon"
+          }
+        },
+        {
+          "id": 2,
+          "title": "developer",
+          "image": {
+            "src": "../images/icons/icons-02.png",
+            "alt": "Skill Icon"
+          }
+        },
+        {
+          "id": 3,
+          "title": "developer",
+          "image": {
+            "src": "../images/icons/icons-03.png",
+            "alt": "Skill Icon"
+          }
+        }
+      ],
+      "images": [
+        {
+          "src": "../images/slider/banner-05.png",
+          "alt": "Personal Portfolio Images"
+        }
+      ]
+    },
+    {
+      "id": "all-inclusive-client",
+      "section": "client-section",
+      "section_title": {
+        "title": "Award I Have Achieve",
+        "subtitle": "Visit my Award"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Marth Smiths",
+          "images": [
+            {
+              "src": "../images/client/png/client1.png"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Sumith Saha",
+          "images": [
+            {
+              "src": "../images/client/png/client2.png"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "John Due",
+          "images": [
+            {
+              "src": "../images/client/png/client3.png"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "Janen Jara",
+          "images": [
+            {
+              "src": "../images/client/png/client4.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "Jara Sultana",
+          "images": [
+            {
+              "src": "../images/client/png/client1.png"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "Sr Deirector",
+          "images": [
+            {
+              "src": "../images/client/png/client5.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "all-inclusive-pricing",
+      "section": "pricing-section",
+      "section_title": {
+        "title": "My Pricing",
+        "subtitle": "Pricing"
+      },
+      "texts": [
+        {
+          "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+        },
+        {
+          "content": "Get the bundle and get lifetime support and one year updates."
+        }
+      ],
+      "inner": [
+        {
+          "id": "pricing-static",
+          "title": "static",
+          "subtitle": "4 WEEK TRAINING – 30 MIN/DAY",
+          "is_featured": false,
+          "price": "$30",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": false
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": false
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": false
+            }
+          ],
+          "orderLink": "#!"
+        },
+        {
+          "id": "pricing-join",
+          "title": "JOIN NOW",
+          "subtitle": "4 WEEK TRAINING – 50 MIN/DAY",
+          "is_featured": false,
+          "price": "$50",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": true
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": true
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": true
+            }
+          ],
+          "orderLink": "#!"
+        }
+      ]
+    }
+  ]
+}

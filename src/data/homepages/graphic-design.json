@@ -1,0 +1,710 @@
+{
+  "title": "graphic-design",
+  "content": [
+    {
+      "id": "graphic-design-hero",
+      "section": "hero-section",
+      "headings": [
+        {
+          "content": "Webdesigner"
+        },
+        {
+          "content": "& Photographer"
+        }
+      ],
+      "texts": [
+        {
+          "content": "👋 my name is Inbio & I am a freelance"
+        },
+        {
+          "content": "based in Nevada, USA ❤️"
+        }
+      ],
+      "images": [
+        {
+          "src": "../images/slider/banner-11.png",
+          "alt": "Personal Portfolio Images"
+        },
+        {
+          "src": "../images/client/client-logos.png",
+          "alt": "client logos"
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-services",
+      "section": "service-section",
+      "section_title": {
+        "title": "What I Do",
+        "subtitle": "Features"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Business Stratagy",
+          "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+          "icon": "Menu",
+          "path": "#!"
+        },
+        {
+          "id": 2,
+          "title": "App Development",
+          "description": "It uses a dictionary of over 200 Latin words, combined with a handful of model sentence.",
+          "icon": "BookOpen",
+          "path": "#!"
+        },
+        {
+          "id": 3,
+          "title": "App Development",
+          "description": "I throw myself down among the tall grass by the stream as I lie close to the earth.",
+          "icon": "Tv",
+          "path": "#!"
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-pricing",
+      "section": "pricing-section",
+      "section_title": {
+        "title": "My Pricing",
+        "subtitle": "Pricing"
+      },
+      "texts": [
+        {
+          "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+        },
+        {
+          "content": "Get the bundle and get lifetime support and one year updates."
+        }
+      ],
+      "inner": [
+        {
+          "id": "pricing-static",
+          "title": "static",
+          "subtitle": "4 WEEK TRAINING – 30 MIN/DAY",
+          "is_featured": false,
+          "price": "$30",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": false
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": false
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": false
+            }
+          ],
+          "orderLink": "#!"
+        },
+        {
+          "id": "pricing-join",
+          "title": "JOIN NOW",
+          "subtitle": "4 WEEK TRAINING – 50 MIN/DAY",
+          "is_featured": false,
+          "price": "$50",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": true
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": true
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": true
+            }
+          ],
+          "orderLink": "#!"
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-portfolio",
+      "section": "portfolio-section",
+      "section_title": {
+        "title": "My Best Work",
+        "subtitle": "Look My project & JUDGE"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "The services provice for Design",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+          "stringList": [
+            "Responsive design",
+            "Quiz builder",
+            "Certification",
+            "Stats & reports",
+            "Retina ready"
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-07.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "The services provice for Development",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+          "items": [
+            "Device maintain",
+            "Theme builder",
+            "Certification",
+            "Stats & reports",
+            "Retina ready"
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-08.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "The services provice for Android user",
+          "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi, quidem dignissimos. Perspiciatis fuga soluta officiis eligendi labore, omnis ut velit vitae suscipit alias cumque temporibus.",
+          "items": [
+            "Customer satisfaction",
+            "Quiz builder",
+            "Certification",
+            "Stats & reports",
+            "Retina ready"
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-09.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-skills-2",
+      "section": "skill-section-2",
+      "section_title": {
+        "title": "My Skill",
+        "subtitle": "Visit my skill & Hire me"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "ReactJs",
+          "images": [
+            {
+              "src": "../images/icons/react.png"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Figma",
+          "images": [
+            {
+              "src": "../images/icons/figma.png"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "XD",
+          "images": [
+            {
+              "src": "../images/icons/xd.png"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "title": "PS",
+          "images": [
+            {
+              "src": "../images/icons/photoshop.png"
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "title": "vueJS",
+          "images": [
+            {
+              "src": "../images/icons/vuejs.png"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "title": "js",
+          "images": [
+            {
+              "src": "../images/icons/js.png"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "title": "angularJS",
+          "images": [
+            {
+              "src": "../images/icons/angularjs.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-resume",
+      "section": "resume-section",
+      "section_title": {
+        "title": "My Resume",
+        "subtitle": "7+ Years of Experience"
+      }
+    },
+    {
+      "id": "graphic-design-education",
+      "section": "education-section",
+      "title": "Education",
+      "inner": [
+        {
+          "id": "education-section-left",
+          "section_title": {
+            "title": "Education Quality",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Personal Portfolio April Fools",
+              "subtitle": "University of DVI (1997 - 2001)",
+              "rating": "4.30/5",
+              "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "Examples Of Personal Portfolio",
+              "subtitle": "College of Studies (2000 - 2002)",
+              "rating": "4.50/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Tips For Personal Portfolio",
+              "subtitle": "University of Studies (1997 - 2001)",
+              "rating": "4.80/5",
+              "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        },
+        {
+          "id": "education-section-right",
+          "section_title": {
+            "title": "Job Experience",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Diploma in Web Development",
+              "subtitle": "BSE In CSE (2004 - 2008)",
+              "rating": "4.70/5",
+              "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "The Personal Portfolio Mystery",
+              "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+              "rating": "4.95/5",
+              "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Diploma in Computer Science",
+              "subtitle": "Works at Plugin Development (2016 - 2020)",
+              "rating": "5.00/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-skill",
+      "section": "skill-section",
+      "title": "professional Skills",
+      "inner": [
+        {
+          "id": "graphic-design-skill-left",
+          "section_title": {
+            "title": "Design Skill",
+            "subtitle": "Features"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "PHOTOSHOT",
+              "value": 85
+            },
+            {
+              "id": 2,
+              "title": "FIGMA",
+              "value": 95
+            },
+            {
+              "id": 3,
+              "title": "ADOBE XD",
+              "value": 60
+            },
+            {
+              "id": 4,
+              "title": "ADOBE ILLUSTRATOR",
+              "value": 70
+            },
+            {
+              "id": 5,
+              "title": "DESIGN",
+              "value": 90
+            }
+          ]
+        },
+        {
+          "id": "graphic-design-skill-right",
+          "section_title": {
+            "title": "Design Skill",
+            "subtitle": "Features"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "HTML",
+              "value": 85
+            },
+            {
+              "id": 2,
+              "title": "CSS",
+              "value": 80
+            },
+            {
+              "id": 3,
+              "title": "JAVASCRIPT",
+              "value": 90
+            },
+            {
+              "id": 4,
+              "title": "SOFTWARE",
+              "value": 75
+            },
+            {
+              "id": 5,
+              "title": "PLUGIN",
+              "value": 70
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-experience",
+      "section": "experience-section",
+      "title": "experience",
+      "inner": [
+        {
+          "id": "graphic-design-experience-left",
+          "section_title": {
+            "title": "Education Quality",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Personal Portfolio April Fools",
+              "subtitle": "University of DVI (1997 - 2001)",
+              "rating": "4.30/5",
+              "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "Examples Of Personal Portfolio",
+              "subtitle": "College of Studies (2000 - 2002)",
+              "rating": "4.50/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Tips For Personal Portfolio",
+              "subtitle": "University of Studies (1997 - 2001)",
+              "rating": "4.80/5",
+              "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        },
+        {
+          "id": "graphic-design-section-right",
+          "section_title": {
+            "title": "Job Experience",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Diploma in Web Development",
+              "subtitle": "BSE In CSE (2004 - 2008)",
+              "rating": "4.70/5",
+              "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "The Personal Portfolio Mystery",
+              "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+              "rating": "4.95/5",
+              "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Diploma in Computer Science",
+              "subtitle": "Works at Plugin Development (2016 - 2020)",
+              "rating": "5.00/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-interview",
+      "section": "interview-section",
+      "title": "interview",
+      "inner": [
+        {
+          "id": "graphic-design-experience-left",
+          "section_title": {
+            "title": "Company Experience",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Personal Portfolio April Fools",
+              "subtitle": "University of DVI (1997 - 2001)",
+              "rating": "4.30/5",
+              "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "Examples Of Personal Portfolio",
+              "subtitle": "College of Studies (2000 - 2002)",
+              "rating": "4.50/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Tips For Personal Portfolio",
+              "subtitle": "University of Studies (1997 - 2001)",
+              "rating": "4.80/5",
+              "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        },
+        {
+          "id": "graphic-design-section-right",
+          "section_title": {
+            "title": "Job Experience",
+            "subtitle": "2007 - 2010"
+          },
+          "items": [
+            {
+              "id": 1,
+              "title": "Diploma in Web Development",
+              "subtitle": "BSE In CSE (2004 - 2008)",
+              "rating": "4.70/5",
+              "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 2,
+              "title": "The Personal Portfolio Mystery",
+              "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+              "rating": "4.95/5",
+              "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            },
+            {
+              "id": 3,
+              "title": "Diploma in Computer Science",
+              "subtitle": "Works at Plugin Development (2016 - 2020)",
+              "rating": "5.00/5",
+              "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "graphic-design-portfolio-2",
+      "section": "portfolio-section-2",
+      "section_title": {
+        "title": "My Latest Design",
+        "subtitle": "Graphic Designers, Web Designers, & Webflow Expert"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "The services provide for design",
+          "category": "Development",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-01.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 600
+        },
+        {
+          "id": 2,
+          "title": "Mobile app landing design & app maintain",
+          "category": "Application",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-02.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 750
+        },
+        {
+          "id": 3,
+          "title": "Logo design creativity & Application",
+          "category": "Photoshop",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-03.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 630
+        },
+        {
+          "id": 4,
+          "title": "Mobile app landing design & Services",
+          "category": "Figma",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-04.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 360
+        },
+        {
+          "id": 5,
+          "title": "Design for tecnology & services",
+          "category": "Web Design",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-05.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 280
+        },
+        {
+          "id": 6,
+          "title": "App for tecnology & services",
+          "category": "Web Design",
+          "texts": [
+            {
+              "content": "Cupiditate distinctio assumenda explicabo veniam temporibus eligendi."
+            },
+            {
+              "content": "Dolorum alias suscipit rerum maiores aliquam earum odit, nihil culpa quas iusto hic minus!"
+            }
+          ],
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-06.jpg"
+            }
+          ],
+          "path": "#!",
+          "likeCount": 600
+        }
+      ],
+      "buttons": [
+        {
+          "id": 1,
+          "content": "Let's start a project together",
+          "path": "#contact",
+          "className": "rounded-pill"
+        }
+      ]
+    }
+  ]
+}

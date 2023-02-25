@@ -1,0 +1,21 @@
+/* Awards Section */
+
+.awards-area-01 {
+    .awards-title {
+        font-weight: 400;
+        font-size: var(--h6);
+        line-height: 1.25;
+        text-align: center;
+        margin-block-end: 40px;
+    }
+    .awards-image {
+        text-align: center;
+        & > * {
+            opacity: 0.5;
+            transition-duration: 0.3s;
+            &:hover {
+                opacity: 1;
+            }
+        }
+    }
+}

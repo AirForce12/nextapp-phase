@@ -1,0 +1,46 @@
+{
+    "id": "main-menu-1",
+    "section": "menu-1",
+    "menu": [
+        {
+            "id": 1,
+            "text": "Home",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "Features",
+            "path": "features"
+        },
+        {
+            "id": 3,
+            "text": "Portfolio",
+            "path": "portfolio"
+        },
+        {
+            "id": 4,
+            "text": "Resume",
+            "path": "resume"
+        },
+        {
+            "id": 5,
+            "text": "Clients",
+            "path": "clients"
+        },
+        {
+            "id": 6,
+            "text": "Pricing",
+            "path": "pricing"
+        },
+        {
+            "id": 7,
+            "text": "Blog",
+            "path": "blog"
+        },
+        {
+            "id": 8,
+            "text": "Contact",
+            "path": "contacts"
+        }
+    ]
+}

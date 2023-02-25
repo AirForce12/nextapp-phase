@@ -1,0 +1,108 @@
+{
+    "id": "footer-data-2",
+    "section": "footer-2",
+    "copyright_text": "All rights reserved by <a href='https://themeforest.net/user/rainbow-themes/portfolio'>Rainbow-Themes.</a>",
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo-dark.png"
+        }
+    ],
+    "widgets": [
+        {
+            "id": 1,
+            "title": "product",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Database",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "text": "Authentication",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "text": "Storage",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "text": "Support",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "text": "Pricing",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Resources",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Authentication",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "text": "System Status",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "text": "Terms of service",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "text": "Pricing",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "text": "over right",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Developers",
+            "menu": [
+                {
+                    "id": 1,
+                    "text": "Documentation",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "text": "Authentication",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "text": "API Reference",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "text": "Support",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "text": "Open Source",
+                    "path": "#!"
+                }
+            ]
+        }
+    ]
+}

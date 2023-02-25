@@ -1,0 +1,238 @@
+{
+  "title": "seo-optimize",
+  "content": [
+    {
+      "id": "seo-optimize-hero",
+      "section": "hero-section",
+      "headings": [
+        {
+          "content": "Hi, I’m <span>InBio</span>"
+        },
+        {
+          "content": "Download my curriculum vitae:"
+        }
+      ],
+      "texts": [
+        {
+          "content": "Web designer and developer working for envato.com in Paris, France."
+        }
+      ],
+      "items": [
+        {
+          "id": 1,
+          "title": "Web designer & developer",
+          "icon": "File"
+        },
+        {
+          "id": 2,
+          "title": "john.slady@gmail.com",
+          "icon": "Mail"
+        },
+        {
+          "id": 3,
+          "title": "Paris fan",
+          "icon": "MapPin"
+        }
+      ],
+      "buttons": [
+        {
+          "id": 1,
+          "path": "#contacts",
+          "content": "DOWNLOAD CV"
+        },
+        {
+          "id": 2,
+          "path": "#contacts",
+          "content": "CONTACT ME"
+        }
+      ],
+      "images": [
+        {
+          "src": "../images/slider/banner-02.png",
+          "alt": "Personal Portfolio Images"
+        }
+      ]
+    },
+    {
+      "id": "seo-optimize-pricing",
+      "section": "pricing-section",
+      "section_title": {
+        "title": "Pricing 🚀",
+        "subtitle": "Pricing"
+      },
+      "texts": [
+        {
+          "content": "Use the free templates with your whole team or choose a premium. ith your whole team or choose a premium."
+        },
+        {
+          "content": "Get the bundle and get lifetime support and one year updates."
+        }
+      ],
+      "inner": [
+        {
+          "id": "pricing-static",
+          "title": "STARTER",
+          "subtitle": "TRY AND DECIDE.",
+          "is_featured": false,
+          "price": "$0",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": false
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": false
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": false
+            }
+          ],
+          "orderLink": "#!"
+        },
+        {
+          "id": "pricing-join",
+          "title": "BUNDLE",
+          "subtitle": "TRY AND DECIDE.",
+          "is_featured": false,
+          "price": "$60",
+          "items": [
+            {
+              "id": 1,
+              "title": "2 demo templates.",
+              "available": true
+            },
+            {
+              "id": 2,
+              "title": "Fully responsive.",
+              "available": true
+            },
+            {
+              "id": 3,
+              "title": "Figma",
+              "available": true
+            },
+            {
+              "id": 4,
+              "title": "Spacial offer",
+              "available": true
+            },
+            {
+              "id": 5,
+              "title": "All Demoes",
+              "available": true
+            }
+          ],
+          "orderLink": "#!"
+        }
+      ]
+    },
+    {
+      "id": "seo-optimize-experience",
+      "section": "experience-section",
+      "section_title": {
+        "title": "My Experience",
+        "subtitle": "Over 10 years of experience"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Rainbow - Themes.",
+          "subtitle": "Co-Founder, Web Designer & Developer",
+          "description": "Reinvetning the way you create websites",
+          "timeRange": "2015-Present",
+          "path": "#contacts",
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-01.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "App Development.",
+          "subtitle": "Co-Founder, Web Designer & Developer",
+          "description": "Reinvetning the way you create websites",
+          "timeRange": "2018-Present",
+          "path": "#contacts",
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-02.jpg"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Application Management.",
+          "subtitle": "Co-Founder, Web Designer & Developer",
+          "description": "Reinvetning the way you create websites",
+          "timeRange": "2020-Present",
+          "path": "#contacts",
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-03.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seo-optimize-education",
+      "section": "education-section",
+      "section_title": {
+        "title": "Education",
+        "subtitle": "Phd, Master and Bachelor"
+      },
+      "items": [
+        {
+          "id": 1,
+          "title": "Software Develop.",
+          "subtitle": "Co-Founder, Web Designer & Developer",
+          "description": "Reinvetning the way you create websites",
+          "timeRange": "2015-Present",
+          "path": "#contacts",
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-04.jpg"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Web Design.",
+          "subtitle": "Co-Founder, Web Designer & Developer",
+          "description": "Reinvetning the way you create websites",
+          "timeRange": "2018-Present",
+          "path": "#contacts",
+          "images": [
+            {
+              "src": "../images/portfolio/portfolio-05.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seo-optimize-blog",
+      "section": "blog-section",
+      "section_title": {
+        "title": "My Blog",
+        "subtitle": "Visit my blog and keep your feedback"
+      }
+    }
+  ]
+}

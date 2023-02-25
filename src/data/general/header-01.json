@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1",
+    "section": "header-1",
+    "button": {
+        "id": 1,
+        "content": "All inclusive",
+        "path": "/all-inclusive"
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo-dark.png"
+        }
+    ],
+    "slogan": "Inbio is a personal portfolio template. You can customize all."
+}
