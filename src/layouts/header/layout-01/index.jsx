@@ -76,6 +76,7 @@ const Header = ({ className, data }) => {
                                                 opacity: theme ? 1 : 0,
                                                 verticalAlign: "middle",
                                                 lineHeight: "21px",
+                                                cursor: "pointer",
                                             }}
                                         >
                                             {theme === "dark" ? "🌙" : "🌞️"}
